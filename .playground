@@ -1,0 +1,10 @@
+{
+  "project_name": "Go ChatBot",
+  "project_description": "Chatbot app in Go.",
+  "show_files": [
+    "controllers/main.go",
+    "app.yaml"
+  ],
+  "read_only_demo_url": "https://phong.jp/",
+  "download_filename": "gochatbot.zip"
+}
